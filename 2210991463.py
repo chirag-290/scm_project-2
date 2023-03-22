@@ -82,11 +82,11 @@ def sep_notes():
     if ten!=0:
         print("Number of Ten Rupee notes:", ten)
     if five!=0:
-        print("Number of Five Rupee notes:", five)
+        print("Number of five Rupee notes:", five)
     if two!=0:
         print("Number of Two Rupee notes:", two)
     if one!=0:
-        print("Number of One Rupee notes:", one)
+        print("number of One Rupee notes:", one)
     print()
 
 ########################## TOTAL NUMBER OF NOTES WITHDRAW  ####################################
