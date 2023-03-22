@@ -43,7 +43,7 @@ def greeting():
     print()
     print("*************************************")
     print()
-    print("*** THANKYOU FOR VISITING US! HAVE A NICE DAY AHEAD! ***")
+    print("*** THANKYOU FOR VISITING US! HAVE A NICE DAY AHEAD! *******")
     print()
 
 ######################################  TOTAL AMOUNT DEPOSITED  ##############################################
