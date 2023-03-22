@@ -332,7 +332,7 @@ elif choose==2:
             print("* YOU CAN'T DEPOSIT MORE THAN 20000 RUPEES IN ONE GO, PLEASE TRY AGAIN *")
     else:
         print()
-        print("*** INVALID PIN ***")
+        print("*** INVALID PIN ******")
     
     
     #sum()- call sum inside deposit and print sum as well
