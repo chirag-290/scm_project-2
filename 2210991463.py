@@ -7,7 +7,7 @@ m3=9496123225
 m4=987654321
 
 #DEFINING 4 DIFFERENT ACCOUNTS
-acc1=[2210991271,"Anish Doomra",m1,5000]
+acc1=[2210991271,"Anish Doomra",M1,5000]
 acc2=[2210991304,"Anshika Mahajan",m2,5000]
 acc3=[2210991280,"Ankita Khatri",m3,5000]
 acc4=[2210991296,"Ansh Marwaha",m4,5000]
@@ -276,7 +276,7 @@ def check_pin():
 
 #####################################  INPUT  ###################################################
 # print()
-# print("PRESS 1 IF YOU WANT TO WITHDRAW")
+# print("PRESS 1 IF YOU WANT TO wITHDRAW")
 # print("PRESS 2 IF YOU WANT TO DEPOSIT")
 # print("PRESS 3 IF YOU WANT TO CHANGE THE NUMBER LINKED TO YOUR BANK ACCOUNT")
 # print("PRESS 4 IF YOU WANT TO CHECK YOUR BANK BALANCE")
@@ -295,7 +295,7 @@ if choose==1:
     print()
     c=check_pin()
     if(c==True):
-        amt=int(input("PLEASE ENTER THE AMOUNT YOU WISH TO WITHDRAW: "))
+        amt=int(input("PLEASE eNTER THE AMOUNT YOU WISH TO WITHDRAW: "))
         withdraw(amt)
 
         if amt<=25000:
